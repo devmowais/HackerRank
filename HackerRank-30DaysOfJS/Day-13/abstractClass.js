@@ -60,3 +60,10 @@ class MyBook extends Book{
 }
 
 function main() {
+    let title = readLine()
+    let author = readLine()
+    let price = +readLine()
+
+    let book = new MyBook(title, author, price)
+    book.display()
+}
