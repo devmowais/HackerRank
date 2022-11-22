@@ -42,7 +42,7 @@ function main() {
             }
         }
     } while (swapped);
-    console.log('Array is sorted in ' + numSwaps + ' swaps.')
+    console.log('Array is sorted in ' + numOfSwaps + ' swaps.')
     console.log('First Element:', a[0]);
     console.log('Last Element:', a[n - 1]);
 }
