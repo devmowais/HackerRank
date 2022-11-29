@@ -1,6 +1,6 @@
 
 // <----------PROBLEM--------->
-// https://www.hackerrank.com/challenges/js10-template-literals/problem?isFullScreen=true
+// https://www.hackerrank.com/challenges/js10-arrows/problem?isFullScreen=true
 
 'use strict';
 
